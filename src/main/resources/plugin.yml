@@ -1,0 +1,5 @@
+name: Kuripaka
+version: ${project.version}
+main: com.akon.kuripaka.Kuripaka
+authors: [akon]
+depend: [LibsDisguises, ProtocolLib]
